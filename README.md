@@ -7,7 +7,7 @@ This repository contains an enterprise-grade data analytics project focused on d
 
 ### 🌐 Live Artifacts & Deliverables
 * 📊 **[Live Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yash.raj7219/viz/NetflixStreamPulseDashboard/Dashboard1)**
-* 📄 **[Technical Presentation & Strategic Report (15 Pages)](./StreamPulse__Cinematic_OTT_Analytics.pdf)**
+* 📄 **[Technical Presentation & Strategic Report (15 Pages)](StreamPulse_%20Cinematic%20OTT%20Analytics.pdf)**
 
 ---
 
